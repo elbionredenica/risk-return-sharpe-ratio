@@ -4,11 +4,10 @@
 This repository provides a guide to understanding and implementing the Sharpe Ratio using Python. It covers importing necessary modules, data visualization, calculating returns, and computing the Sharpe Ratio for Amazon and Facebook stocks relative to the S&P 500 index.
 
 ## Installation
-- Clone the repository: `git clone https://github.com/yourusername/sharpe-ratio.git`
-- Install required packages: `pip install -r requirements.txt`
+- Clone the repository: `git clone https://github.com/elbionredenica/risk-return-sharpe-ratio.git`
 
 ## Usage
-1. Open `Sharpe_Ratio_Calculator.ipynb` in Jupyter Notebook.
+1. Open `notebook.ipynb` in Jupyter Notebook.
 2. Follow instructions to execute each code cell sequentially.
 3. Ensure required data files (`stock_data.csv` and `benchmark_data.csv`) are in the `datasets` folder.
 
